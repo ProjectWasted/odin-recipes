@@ -1,0 +1,10 @@
+h1, h3, h4 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+
+h4 {
+    font-size: 17.2px;
+}
+

@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+#food {
+    font-weight: bold;
+    color: green;
+}
+.beef {
+    font-size: 52px;
+    background-color: brown;
+}
+
+.egg {
+    font-size: 31px;
+    background-color: yellow;
+}
+
+.burg {
+    font-size: 22px;
+    background-color: bisque;
+}
