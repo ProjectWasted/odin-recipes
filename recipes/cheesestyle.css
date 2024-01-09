@@ -1,10 +1,44 @@
+body {
+    background-color: beige;
+}
 h1, h3, h4 {
     text-align: center;
     text-decoration: underline;
     text-decoration-color: purple;
+    border: 2px solid burlywood;
+    margin: 0px 11em 0px 11em;
+    background-color: azure;
 }
 
 h4 {
     font-size: 17.2px;
 }
 
+img {
+   display: block; 
+   margin-left: auto;
+   margin-right: auto;
+}
+p {
+    background-color: azure;
+    border: 2px solid black;
+    
+}
+li {
+    text-decoration: underline;
+}
+ul, ol {
+    color: darkgoldenrod ;
+}
+ul {
+    display: table;
+    margin: auto;
+}
+.stepper {
+    border: 3px solid burlywood;
+    margin: auto;
+}
+.stepper strong {
+    background-color: azure;
+    border: 1px solid black;
+}
