@@ -1,3 +1,8 @@
+
+h1 {
+    font-size: 8ch;
+    font-family: monospace;
+}
 body {
     text-align: center;
 }
@@ -8,15 +13,31 @@ body {
 }
 .beef {
     font-size: 52px;
-    background-color: brown;
+    background-color: saddlebrown;
+    border: 4px solid black;
+
 }
 
 .egg {
     font-size: 31px;
-    background-color: yellow;
+    background-color: lightgoldenrodyellow;
+    border: 3px solid black;
 }
 
 .burg {
     font-size: 22px;
     background-color: bisque;
+    border: 2px solid black;
+}
+.image-container {
+    position: relative;
+    text-align: center;
+
+}
+.overlay-text {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+    margin: 0 auto;
 }
