@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-decoration:rebeccapurple underline;
+    border: 4px solid rebeccapurple;
+    margin: 4px 10.5em 4px 10.5em;
+    text-align: center;
+    background-color: lightslategrey;
+}
+img {
+    display: table;
+    margin: 0 auto;
+}
+.module {
+    padding: 1rem;
+    background-color: white;
+}
+.module h3 {
+    background: lightslategrey;
+    margin: -10px -10px 10px -10px;
+    padding: 10px;
+}
+p {
+    border: 2px solid purple;
+    padding: 6px;
+    background-color: lightgray;
+    margin: 4px;
+}
+.module {
+    background-color: antiquewhite;
+}
+.steps {
+    margin: 10px 10px 10px 10px;
+    padding: 5px 3em 5px 5px;
+    border: 2px solid black;
+    background-color: antiquewhite;
+}
+.steps h3 {
+    border: 2px solid black;
+    margin: 3px 20em 0px 20em;
+    text-align: center;
+    background-color: lightslategrey;
+}
+.steps strong {
+    background-color: darkgray;
+    text-decoration: underline;
+}
+.steps li {
+    margin: 8px 8px -8px 8px;
+    background-color: lightgray;
+    ;
+}
+ol li {
+    border: 2px solid rebeccapurple
+}
+em {
+    text-decoration: underline;
+    font-size: large;
+}
+.ingred h3{
+    border: 2px solid rebeccapurple;
+    margin: 10px 40.6em 10px 3em;
+    background-color: lightslategrey;
+}
+.ingred ul {
+    background-color: antiquewhite;
+    border: 2px solid black;
+    margin: 10px 15px 10px 15px;
+}
+ul li {
+    background-color: lightgray;
+    margin: 3px 49.2em 3px 3px;
+    border: 1px solid rebeccapurple;
+}
